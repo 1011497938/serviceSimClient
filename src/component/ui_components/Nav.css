@@ -1,0 +1,15 @@
+.nav{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 130px 105px 10% auto 10% 235px;
+    height: 100%;
+    width: 100%;
+    color: white
+}
+
+.nav .system-title{
+    font-size: 29px;
+    margin: 10px;
+    line-height: 36px;
+    color: #4b4b4b;
+}

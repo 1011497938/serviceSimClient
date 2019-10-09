@@ -1,0 +1,13 @@
+@font-face{
+  font-family: 'DFPSongW9';
+  src : url('./static/font/DFPSongW9-GB5.ttf');
+}
+@font-face{
+  font-family: 'commonFont';
+  src : url('./static/font/HYSongYunLangHeiW.ttf');
+}
+@font-face{
+  font-family: 'HYSunWanMinCaoShu';
+  src : url('./static/font/HYSunWanMinCaoShuW-2.ttf');
+}
+ @import '~antd/dist/antd.css';
